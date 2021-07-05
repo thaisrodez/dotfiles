@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thaisderodez@gmail.com
+	name = thais de rodez
